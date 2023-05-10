@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas UTS</string>
+    <string-array name="jabatan">
+        <item>Karyawan</item>
+        <item>Ketua Dpr</item>
+        <item>Ketua</item>
+    </string-array>
+
+</resources>
